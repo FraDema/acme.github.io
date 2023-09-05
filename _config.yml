@@ -1,2 +1,5 @@
 #theme: jekyll-theme-slate
 remote_theme: pages-themes/leap-day@v0.2.0
+#il tema Leap_Day consente l'utilizzo anche di queste variabili (vedi https://github.com/pages-themes/leap-day )
+show_downloads:false
+
