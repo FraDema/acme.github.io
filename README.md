@@ -25,8 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Link interno](https://github.com/FraDema/acme.github.io/blob/main/test/index.html)
-[LINK 2](https://fradema.github.io/acme.github.io/test/index.html)
+
+[Test Page](https://fradema.github.io/acme.github.io/test/index.html)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
